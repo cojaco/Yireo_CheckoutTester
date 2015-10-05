@@ -1,0 +1,4 @@
+app/design/frontend/base/default/layout/checkouttester.xml       app/design/frontend/base/default/layout/checkouttester.xml
+app/etc/modules/Yireo_CheckoutTester.xml                         app/etc/modules/Yireo_CheckoutTester.xml
+app/design/adminhtml/default/default/template/checkouttester     app/design/adminhtml/default/default/template/checkouttester
+app/code/community/Yireo/CheckoutTester                          app/code/community/Yireo/CheckoutTester
